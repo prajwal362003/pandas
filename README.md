@@ -14,8 +14,4 @@ Inspecting data using .head(), .info(), .describe(), etc.
 
 Data slicing and filtering (e.g., retrieving rows by condition)
 
-Handling missing/null values
-
-Grouping and aggregation using .groupby()
-
 Sorting and indexing
